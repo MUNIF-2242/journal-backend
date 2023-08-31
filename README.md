@@ -55,7 +55,7 @@ ls -lrt
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+cd journal-backend
 npm install
 ```
 
