@@ -1,8 +1,6 @@
 # journal-backend
 
-# Node Hello World
-
-Simple node.js app that servers "A Monk in Cloud"
+Simple node.js app 
 
 Great for testing simple deployments on Cloud
 
@@ -50,7 +48,7 @@ This command will print the git version in the terminal.
 Run below command to clone the code repository from Github:
 
 ```bash
-git clone https://github.com/yeshwanthlm/nodejs-on-ec2.git
+git clone https://github.com/MUNIF-2242/journal-backend.git
 ls -lrt
 ```
 
